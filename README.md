@@ -1,1 +1,0 @@
-# osnovi_python
